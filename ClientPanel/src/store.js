@@ -6,12 +6,7 @@ import { reduxFirestore, firestoreReducer } from "redux-firestore"
 import notifyReducer from "./reducers/notifyReducer"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAZBZh8EuCyX7G2db_Ednzw7RJubLy5iag",
-  authDomain: "clientpanel-84706.firebaseapp.com",
-  databaseURL: "https://clientpanel-84706.firebaseio.com",
-  projectId: "clientpanel-84706",
-  storageBucket: "clientpanel-84706.appspot.com",
-  messagingSenderId: "240828658491",
+  //put your own
 }
 
 const rrfConfig = {
